@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderpync",
+        "uuid": 5610528,
+        "checksum": "miaek"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
